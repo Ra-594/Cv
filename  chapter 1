@@ -1,0 +1,65 @@
+<!Doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title> Rafael Hinsa site </title>
+</head>
+
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="Foto profile 3.png" alt="Rafael Hinsa"></td>
+      <td>
+        <h1> Rafael Hinsa </h1>
+        <p> Hi I'm rafael , I'm a highschooler, and I'm happy to see you on my website.</p>
+        <a href="C:\Users\User\Documents\Coding\Udemy\Html-site \ Input.html">input data here</a>
+        <br>
+        <p>If you want to <i><a href="C:\Users\User\Documents\Coding\Udemy\Html-site \ Contact me.html">Contact me </a></i> </p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <hr>
+  <h3> <em>Education</em> </h3>
+  <Ul>
+    <li>Alumny of Elementary school (SDN MENANGGAl 601)</li>
+    <li>Alumny of <a href="http://www.smpn6sby.sch.id/">Junior Highschool 6 Surabaya</a></li>
+    <li>Student of<a href="https://sman15-sby.sch.id/">Highshool Surabaya 15</a></li>
+  </Ul>
+  <hr>
+  <h3><em> Hobbies</em></h3>
+  <ol cellspacing="10" type="1">
+    <li> Basketball </li>
+    <li> Coding </li>
+    <li> reading a book </li>
+    <li> read random internet post </li>
+  </ol>
+  <hr>
+  <h2> <strong>Skills</strong> </h2>
+  <table cellspacing="10">
+    <tr>
+      <td> Piano </td>
+      <td>⭐⭐⭐⭐</td>
+    <tr>
+      <td> coding </td>
+      <td>⭐</td>
+    </tr>
+    <tr>
+      <td> english </td>
+      <td>⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td> Math </td>
+      <td>⭐⭐⭐⭐/⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td> art </td>
+      <td>⭐⭐</td>
+    </tr>
+    <table>
+</body>
+
+
+</html>
